@@ -21,3 +21,6 @@ Lista Exercicios
 
 
 #EXERCICIO 4
+
+![saldo](https://user-images.githubusercontent.com/119326011/234737793-bacf8f9d-ef4f-481b-9366-72d45e37bca0.png)
+
