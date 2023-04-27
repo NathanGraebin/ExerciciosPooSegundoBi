@@ -19,7 +19,9 @@ https://github.com/NathanGraebin/ExerciciosPooSegundoBi/tree/master/src/main/jav
 ![sssssss2](https://user-images.githubusercontent.com/119326011/234737113-7b80461b-d909-414d-8f2c-b8c1c77c9f0c.png)
 
 
-#EXERCICIO 3
+#EXERCICIO 3 - CONTA BANCARIA
+
+https://github.com/NathanGraebin/ExerciciosPooSegundoBi/tree/master/src/main/java/ContaBancaria
 
 ![image](https://user-images.githubusercontent.com/119326011/234737169-5a33920a-15da-4ba7-a628-095a73cea991.png)
 
