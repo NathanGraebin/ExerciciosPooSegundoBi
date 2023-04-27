@@ -4,8 +4,8 @@ Lista Exercicios
 [ListadeExerciciosSegundoBimestre.pdf](https://github.com/NathanGraebin/ExerciciosPooSegundoBi/files/11338678/ListadeExerciciosSegundoBimestre.pdf)
 
 
-#EXERCICIO 1
-
+#EXERCICIO 1 - INGRESSO
+https://github.com/NathanGraebin/ExerciciosPooSegundoBi/tree/master/src/main/java/Ingresso
 ![image](https://user-images.githubusercontent.com/119326011/234736920-8effb6f8-e27d-479a-87d3-f97a14230e33.png)
 
 
