@@ -5,12 +5,16 @@ Lista Exercicios
 
 
 #EXERCICIO 1 - INGRESSO
+
 https://github.com/NathanGraebin/ExerciciosPooSegundoBi/tree/master/src/main/java/Ingresso
+
 ![image](https://user-images.githubusercontent.com/119326011/234736920-8effb6f8-e27d-479a-87d3-f97a14230e33.png)
 
 
 
-#EXERCICIO 2
+#EXERCICIO 2 - EMPREGOS
+
+https://github.com/NathanGraebin/ExerciciosPooSegundoBi/tree/master/src/main/java/Empregos
 
 ![sssssss2](https://user-images.githubusercontent.com/119326011/234737113-7b80461b-d909-414d-8f2c-b8c1c77c9f0c.png)
 
